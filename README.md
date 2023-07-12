@@ -4,5 +4,5 @@ In this project, I showcase my SQL and database design skills using a dataset th
 
 ### What's in Here?
 * raw-datasets/: This folder contains the raw CSV data that I used to populate the database. The CSV files were extracted from Google Big Query Public Data.
-* notebooks/: In this folder, you will find Jupyter notebooks where I demonstrate how to interact with the database using Python and perform data manipulations.
+* notebooks/: In this folder, you will find Jupyter notebooks where I demonstrate how to interact with the database using Python and perform ETL process.
 * sql-queries/: Here, you will find an .sql file with the SQL queries I used to create the tables in the database, perform ETL, and answer business-related questions.
